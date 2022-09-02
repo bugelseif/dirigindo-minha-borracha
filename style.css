@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(36, 36, 41);
+}
+section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(37, 5, 28);
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(126, 113, 138);
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: start;
+    font-size: 1.3rem;
+}
+.comandos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
